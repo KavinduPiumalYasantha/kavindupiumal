@@ -8,7 +8,7 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-emma-core/gatsby-config.js
     siteTitle: `Kavindu Piumal Yasantha`,
-    siteTitleAlt: `Emma - Gatsby Starter Portfolio`,
+    siteTitleAlt: `Kavindu Piumal Yasantha`,
     siteHeadline: `Emma - Gatsby Theme from @lekoarts`,
     siteUrl: `https://emma.lekoarts.de`,
     siteDescription: `Minimalistic portfolio with full-width grid, page transitions, support for additional MDX pages, and a focus on large images`,
@@ -27,8 +27,8 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Emma - @lekoarts/gatsby-theme-emma`,
-        short_name: `Emma`,
-        description: `Minimalistic bright portfolio with full-width grid and large images`,
+        short_name: `Kavindu Piumal Yasantha`,
+        description: `Portafilo`,
         start_url: `/`,
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
